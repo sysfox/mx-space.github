@@ -6,7 +6,7 @@ Mix Space is a unique personal space, can also be used as a personal blog, more 
 
 We have 2 core repositories.
 
-- [mx-server](https://github.com/mx-space/mx-server), a core service for Mix Space, provide RESTFul api, cron, backup and other functions.
+- [mx-server](https://github.com/mx-space/mx-server), a core service for Mix Space, provide RESTFul api, cron, backup, pty support, serverless function and other features.
 - [mx-admin](https://github.com/mx-space/mx-admin), a dashboard for Mix Space Server, concise style and comprehensive function.
 
 Now, we have 1 frontend style.
