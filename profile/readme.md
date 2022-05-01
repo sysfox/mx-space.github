@@ -9,9 +9,10 @@ We have 2 core repositories.
 - [mx-server](https://github.com/mx-space/mx-server), a core service for Mix Space, provide RESTful api, cron, backup, pty support, serverless function and other features.
 - [mx-admin](https://github.com/mx-space/mx-admin), a dashboard for Mix Space Server, concise style and comprehensive function.
 
-Now, we have 1 frontend style.
+Now, we have 2 frontend style.
 
 - [Kami](https://github.com/mx-space/kami), a mx-space's web frontend theme. Cute and lovely.
+- [mx-web-yun](https://github.com/mx-space/mx-web-yun), ☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。 
 
 We also have ecosystems.
 
