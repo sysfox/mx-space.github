@@ -11,7 +11,7 @@ We have 2 core repositories.
 
 Now, we have 2 frontend style.
 
-- [Kami](https://github.com/mx-space/kami), a mx-space's web frontend theme. Cute and lovely.
+- [kami](https://github.com/mx-space/kami), a mx-space's web frontend style. Cute and lovely. With mx-server fully support.
 - [mx-web-yun](https://github.com/mx-space/mx-web-yun), ☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。 
 
 We also have ecosystems.
