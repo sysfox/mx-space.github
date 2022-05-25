@@ -2,7 +2,12 @@
 
 Mix Space is a unique personal space, can also be used as a personal blog, more comprehensive feature, continuous update.
 
-[Demo](https://innei.ren)
+[Live Preview](https://innei.ren)
+
+And now you can access the demo version of whole system. :tada:
+
+- [Demo of admin](https://mx-demo.shizuri.net/proxy/qaqdmin), password is: `demo`. 
+- [Demo of kami](https://mx-demo.shizuri.net).
 
 We have 2 core repositories.
 
