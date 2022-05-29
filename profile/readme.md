@@ -11,7 +11,7 @@ And now you can access the demo version of whole system. :tada:
 
 We have 2 core repositories.
 
-- [mx-server](https://github.com/mx-space/mx-server), a core service for Mix Space, provide RESTful api, cron, backup, pty support, serverless function and other features.
+- [core](https://github.com/mx-space/mx-server), a core service for Mix Space, provide RESTful api, cron, backup, pty support, serverless function and other features.
 - [mx-admin](https://github.com/mx-space/mx-admin), a dashboard for Mix Space Server, concise style and comprehensive function.
 
 Now, we have 2 frontend style.
