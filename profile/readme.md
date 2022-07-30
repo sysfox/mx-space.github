@@ -21,7 +21,9 @@ Now, we have 2 frontend style.
 
 We also have ecosystems.
 
-- [docker](https://github.com/mx-space/docker), a docker compose file to quick deploy mx-space system, that's cool
+- [docker](https://github.com/mx-space/docker), a docker compose file to quick deploy mx-space system, that's cool.
 - [api-client](https://github.com/mx-space/api-client), a HTTP Client for mx-space RESTful API, to build a new frontend project quickly.
+
+- [imx-bot](https://github.com/Innei/imx-bot), A QQ bot with mx-space event handler.
 
 Documentation is ready. [Go](https://github.com/mx-space/docs).
