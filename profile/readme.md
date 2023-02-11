@@ -1,6 +1,6 @@
 # Hey, this is Mix Space 👋
 
-Mix Space is a unique personal space, can also be used as a personal blog, more comprehensive feature, continuous update.
+Mix Space is a personal space, can also be used as a personal blog, more comprehensive feature, continuous update.
 
 [Live Preview](https://innei.ren)
 
