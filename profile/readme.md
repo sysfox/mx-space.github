@@ -4,11 +4,6 @@ Mix Space is a personal space, can also be used as a personal blog, more compreh
 
 [Live Preview](https://innei.ren)
 
-And now you can access the demo version of whole system. :tada:
-
-- [Demo of admin](https://mx-demo.shizuri.net/proxy/qaqdmin), password is: `demo`. 
-- [Demo of kami](https://mx-demo.shizuri.net).
-
 We have 2 core repositories.
 
 - [core](https://github.com/mx-space/mx-server), a core service for Mix Space, provide RESTful api, cron, backup, pty support, serverless function and other features.
