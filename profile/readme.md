@@ -2,7 +2,7 @@
 
 Mix Space is a personal space, that can also be used as a personal blog, more comprehensive feature, and continuous update. Now, with the power of Crossbell and [xLog](https://xlog.app/), you can store your inspiration writing on the blockchain.
 
-[Live Preview](https://innei.ren)
+[Live Preview](https://innei.in)
 
 We have 2 core repositories.
 
