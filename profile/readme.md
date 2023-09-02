@@ -6,7 +6,7 @@ Mix Space is a personal space, that can also be used as a personal blog, more co
 
 We have 2 core repositories.
 
-- [core](https://github.com/mx-space/mx-server), a core service for Mix Space, provide RESTful API, cron, backup, pty support, serverless function, and other features.
+- [core](https://github.com/mx-space/mx-server), a core service for Mix Space, provide RESTful API, cron, backup, serverless function, and other features.
 - [mx-admin](https://github.com/mx-space/mx-admin), a dashboard for Mix Space Server, concise style, and comprehensive function.
 
 Now, we have 3 frontend styles.
@@ -20,5 +20,9 @@ We also have ecosystems.
 - [docker](https://github.com/mx-space/docker), a docker-compose file to quickly deploy the mx-space system, that's cool.
 - [api-client](https://github.com/mx-space/core/blob/master/packages/api-client), an HTTP Client for mx-space RESTful API, to build a new frontend project quickly.
 - [imx-bot](https://github.com/Innei/imx-bot), A QQ bot with mx-space event handler.
+- [mx-tg-bot](https://github.com/mx-space/mx-tg-bot), A Telegram Bot for Mix Space.
+- [ProcessReporterMac](https://github.com/mx-space/ProcessReporterMac), A macOS application to report in real time the name of the foreground application and any media information being played.
+  - [Processforlinux](https://github.com/ttimochan/processforlinux), for Linux users.
+  - [ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy), for Windows users.
 
 The documentation is ready. [Go](https://github.com/mx-space/docs).
