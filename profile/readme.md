@@ -23,6 +23,6 @@ We also have ecosystems.
 - [mx-tg-bot](https://github.com/mx-space/mx-tg-bot), A Telegram Bot for Mix Space.
 - [ProcessReporterMac](https://github.com/mx-space/ProcessReporterMac), A macOS application to report in real time the name of the foreground application and any media information being played.
   - [Processforlinux](https://github.com/ttimochan/processforlinux), for Linux users.
-  - [ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy), for Windows users.
+  - [ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy), [ProcessReporterWin](https://github.com/ChingCdesu/ProcessReporterWin), [WinProcessReporter](https://github.com/rdp-studio/WinProcessReporter), for Windows users.
 
 The documentation is ready. [Go](https://github.com/mx-space/docs).
