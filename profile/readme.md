@@ -1,5 +1,7 @@
 # Hey, this is Mix Space 👋
 
+![](../uwu.png)
+
 Mix Space is a personal space, that can also be used as a personal blog, more comprehensive feature, and continuous update. Now, with the power of Crossbell and [xLog](https://xlog.app/), you can store your inspiration writing on the blockchain.
 
 [Live Preview](https://innei.in)
@@ -26,3 +28,7 @@ We also have ecosystems.
   - [ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy), [ProcessReporterWin](https://github.com/ChingCdesu/ProcessReporterWin), [WinProcessReporter](https://github.com/rdp-studio/WinProcessReporter), for Windows users.
 
 The documentation is ready. [Go](https://github.com/mx-space/docs).
+
+---
+
+This uwu logo was created by [Arthals](https://github.com/zhuozhiyongde) and all rights reserved.
