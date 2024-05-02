@@ -1,6 +1,6 @@
 # Hey, this is Mix Space 👋
 
-![](../uwu.png)
+<img src="https://cdn.jsdelivr.net/gh/mx-space/.github@main/uwu.png" />
 
 Mix Space is a personal space, that can also be used as a personal blog, more comprehensive feature, and continuous update. Now, with the power of Crossbell and [xLog](https://xlog.app/), you can store your inspiration writing on the blockchain.
 
