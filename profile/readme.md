@@ -13,9 +13,10 @@ We have 2 core repositories.
 
 Now, we have 3 frontend styles.
 
+- [Shiro](https://github.com/Innei/Shiro), a minimalist personal website embodying the purity of paper and freshness of snow.
 - [kami](https://github.com/mx-space/kami), a mx-space's web frontend style. Cute and lovely. With mx-server fully supported.
 - [mx-web-yun](https://github.com/mx-space/mx-web-yun), ☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。
-- [Shiro](https://github.com/Innei/Shiro), a minimalist personal website embodying the purity of paper and freshness of snow.
+
 
 We also have ecosystems.
 
