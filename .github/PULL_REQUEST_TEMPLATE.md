@@ -1,22 +1,28 @@
-<!--
+### 🔗 链接 issue
 
-Thank you for contributing!
+<!-- 请确保存在未解决的问题，将编号提及为 #123（示例） -->
 
-Before submitting the PR, please make sure you do the following:
+### ❓ 修改类型
 
-- Check that there isn't already a PR that solves the problem the same way to avoid creating a duplicate.
-- Provide a description in this PR that addresses **what** the PR is solving, or reference the issue that it solves (e.g. `fixes #123`).
-- Ideally, include relevant tests that fail without this PR but pass with it.
+<!--代码引入了哪些类型的更改？在所有适用的框中放置一个“x”。 -->
 
--->
+- [ ] 🐞 Bug fix (修复问题的连续性改)
+- [ ] 👌 增强功能（改进现有功能，如性能）
+- [ ] ✨ Feature（添加功能的连续性修改）
+- [ ] ⚠️ 中断修改（重大的修改，如配置文件调整、模块移除）
 
-### Description
+### 📚 描述
 
-<!-- Please insert your description here and provide especially info about the "what" this PR is solving -->
+<!-- 详细说明你的更改 -->
+<!-- 为什么需要此更改？它解决了什么问题？-->
+<!-- 如果它解决了未解决的问题，请在此处链接到该问题。例如，“Resolves #1337” -->
 
-### Linked Issues
+### 📝 清单
 
+<!-- 在所有适用的框中放置一个“x”。 -->
+<!-- 如果更改需要文档 PR，请适当地链接它 -->
+<!-- 如果不确定其中任何一个，请随时询问。我们是来帮忙的！ -->
 
-### Additional context
-
-<!-- e.g. is there anything you'd like reviewers to focus on? -->
+- [ ] 我已链接问题或讨论。
+- [ ] 我已经添加了测试（如果可能的话）。
+- [ ] 我已相应地更新了[文档](https://github.com/mx-space/docs)。
